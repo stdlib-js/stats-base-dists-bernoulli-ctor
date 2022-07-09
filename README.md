@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.Bernoulli;
+})();
 })();
 </script>
 ```
@@ -287,6 +289,7 @@ y = bernoulli.quantile( 0.9 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var bernoulli = new Bernoulli( 0.5 );
 
@@ -299,6 +302,7 @@ var s2 = bernoulli.variance;
 var y = bernoulli.cdf( 2.0 );
 // returns 1.0
 
+})();
 })();
 </script>
 </body>
