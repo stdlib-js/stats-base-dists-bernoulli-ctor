@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import Bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-bernoulli-ctor/tags). For example,
+
+```javascript
 import Bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@v0.1.0-esm/index.mjs';
 ```
 
@@ -273,7 +278,7 @@ y = bernoulli.quantile( 0.9 );
 <body>
 <script type="module">
 
-import Bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@v0.1.0-esm/index.mjs';
+import Bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@esm/index.mjs';
 
 var bernoulli = new Bernoulli( 0.5 );
 
