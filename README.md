@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@esm/index.mjs';
+import Bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@v0.1.0-esm/index.mjs';
 ```
 
 #### Bernoulli( \[p] )
@@ -273,7 +273,7 @@ y = bernoulli.quantile( 0.9 );
 <body>
 <script type="module">
 
-import Bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@esm/index.mjs';
+import Bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bernoulli-ctor@v0.1.0-esm/index.mjs';
 
 var bernoulli = new Bernoulli( 0.5 );
 
