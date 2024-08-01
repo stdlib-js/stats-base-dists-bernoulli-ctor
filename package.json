@@ -43,7 +43,7 @@
     "@stdlib/stats-base-dists-bernoulli-kurtosis": "^0.2.2",
     "@stdlib/stats-base-dists-bernoulli-mean": "^0.2.2",
     "@stdlib/stats-base-dists-bernoulli-median": "^0.2.2",
-    "@stdlib/stats-base-dists-bernoulli-mgf": "^0.2.1",
+    "@stdlib/stats-base-dists-bernoulli-mgf": "^0.2.2",
     "@stdlib/stats-base-dists-bernoulli-mode": "^0.2.2",
     "@stdlib/stats-base-dists-bernoulli-pmf": "^0.2.2",
     "@stdlib/stats-base-dists-bernoulli-quantile": "^0.2.2",
