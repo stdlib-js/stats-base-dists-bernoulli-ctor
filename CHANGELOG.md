@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-25)
+## Unreleased (2026-01-07)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`b1ec70f`](https://github.com/stdlib-js/stdlib/commit/b1ec70f8a9d7a4a242cc4c2d5a8076c0db9b7ff3) - **bench:** update random value generation [(#9590)](https://github.com/stdlib-js/stdlib/pull/9590) _(by Harsh Yadav)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`47382c3`](https://github.com/stdlib-js/stdlib/commit/47382c3cda5d0001d557f837bab70cba9da43ccc) - **chore:** fix JavaScript lint errors [(#7729)](https://github.com/stdlib-js/stdlib/pull/7729) _(by Siddhesh waje, Athan Reines)_
 -   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
 -   [`802775e`](https://github.com/stdlib-js/stdlib/commit/802775ea028fb2a42041611187b6373b49f5f397) - **bench:** refactor random number generation in `stats/base/dists/bernoulli` [(#4775)](https://github.com/stdlib-js/stdlib/pull/4775) _(by Karan Anand, Athan Reines)_
@@ -26,10 +28,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh Yadav
 -   Karan Anand
+-   Philipp Burckhardt
 -   Siddhesh waje
 
 </section>
