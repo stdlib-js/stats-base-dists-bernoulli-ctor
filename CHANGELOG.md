@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-30)
+## Unreleased (2026-02-05)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8cd8362`](https://github.com/stdlib-js/stdlib/commit/8cd836257e3921abc52ad245dce15642aea6288e) - **bench:** refactor to use string interpolation in `stats/base/dists/bernoulli/ctor` [(#10053)](https://github.com/stdlib-js/stdlib/pull/10053) _(by Lokesh Ranjan, Athan Reines)_
 -   [`b1ec70f`](https://github.com/stdlib-js/stdlib/commit/b1ec70f8a9d7a4a242cc4c2d5a8076c0db9b7ff3) - **bench:** update random value generation [(#9590)](https://github.com/stdlib-js/stdlib/pull/9590) _(by Harsh Yadav)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`47382c3`](https://github.com/stdlib-js/stdlib/commit/47382c3cda5d0001d557f837bab70cba9da43ccc) - **chore:** fix JavaScript lint errors [(#7729)](https://github.com/stdlib-js/stdlib/pull/7729) _(by Siddhesh waje, Athan Reines)_
@@ -28,11 +29,12 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Harsh Yadav
 -   Karan Anand
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 -   Siddhesh waje
 
